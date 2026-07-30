@@ -4,10 +4,10 @@
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-[andriidrok.com](https://andriidrok.com) &nbsp;·&nbsp;
-[instagram](https://www.instagram.com/andrii_drok/) &nbsp;·&nbsp;
-[linkedin](https://www.linkedin.com/in/andriidrok/) &nbsp;·&nbsp;
-[email](mailto:clb@mirasvit.com)
+[narvin.dev](https://narvin.dev) &nbsp;·&nbsp;
+[instagram](https://www.instagram.com/narvin_sachaniya/) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/narvin-sachaniya/) &nbsp;·&nbsp;
+[email](mailto:sachaniyanarvin21@gmail.com)
 
 </div>
 

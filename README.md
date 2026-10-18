@@ -54,7 +54,7 @@ real-time notifications, encrypted messaging, and automated reminders.
 Engineering Change Order Management System for manufacturing teams with<br>
 structured workflow, BOM modifications, and multi-stage approval processes.
 
-**[EngageIQ](https://github.com/develper21/EngageIQ)** &nbsp;·&nbsp; <samp>next.js, node, express, postgresql, openai</samp><br>
+**[EngageIQ](https://github.com/develper21/EngageIQ)** &nbsp;·&nbsp; <samp>next.js, nodejs, express, postgresql, openai</samp><br>
 Data-driven content strategy optimizer analyzing social media performance across<br>
 multiple platforms with AI-powered insights and intelligent recommendations.
 
